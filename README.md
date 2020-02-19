@@ -24,6 +24,8 @@ pod 'BRKWordCloud'
 
 arsinio, christopher.armenio@breakwall.io
 
+TyJPhillips, tyler.phillips@breakwall.io
+
 ## License
 
 BRKWordCloud is available under the MIT license. See the LICENSE file for more info.
